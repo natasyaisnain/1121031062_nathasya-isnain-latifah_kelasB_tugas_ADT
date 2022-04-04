@@ -1,6 +1,7 @@
 // Nama = NATHASYA ISNAIN LATIFAH
 // Nim  = 1121031062
 // Kelas= B
+// Deskripsi : memasukan jam, menit, dan detik menggunakan ADT
 #include <iostream>
 #include <windows.h>
 using namespace std;
